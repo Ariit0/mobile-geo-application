@@ -2,6 +2,7 @@
 Development further continued here: https://github.com/kittaye/GeoApp
 
 Google Play Store: https://play.google.com/store/apps/details?id=com.Groundsman.GeoApp
+
 Apple App Store: https://itunes.apple.com/au/app/groundsman/id1454150064?mt=8
 
 Customised GeoApp for QUT Environmental, Earth, and Biological Science students.
